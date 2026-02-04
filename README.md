@@ -7,10 +7,17 @@ This project focuses on clean UI design, reusable components, and a scalable fro
 Features
 
 React.js admin dashboard layout
+
 Multi-page navigation using React Router (Home, Users, Products)
+
 API integration for user data
+
 Search and pagination
+
 Dark and light mode toggle
+
 Statistics cards
+
 Responsive and clean UI
+
 Reusable components and well-structured code
